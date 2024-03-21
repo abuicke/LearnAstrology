@@ -1,4 +1,4 @@
-package dev.gravitycode.learn_astrology
+package dev.gravitycode.learnastrology
 
 import org.junit.Test
 

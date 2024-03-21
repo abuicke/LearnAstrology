@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "dev.gravitycode.learn_astrology"
+    namespace = "dev.gravitycode.learnastrology"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "dev.gravitycode.learn_astrology"
+        applicationId = "dev.gravitycode.learnastrology"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

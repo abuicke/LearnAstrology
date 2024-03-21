@@ -1,4 +1,4 @@
-package dev.gravitycode.learn_astrology.ui.theme
+package dev.gravitycode.learnastrology.ui.theme
 
 import android.app.Activity
 import android.os.Build
